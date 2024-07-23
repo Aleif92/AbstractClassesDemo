@@ -23,7 +23,7 @@ namespace ConsoleUI
              * Set the defaults of the properties to something generic in the Vehicle class
              * Vehicle class shall have an abstract method called DriveAbstract with no implementation.
              * Vehicle class shall have a virtual method called DriveVirtual with a base implementation.
-             */
+             Done*/ 
 
             /* 
              * Now create 2 non-abstract classes: Car and Motorcycle, that inherit from Vehicle
